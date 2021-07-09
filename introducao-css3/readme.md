@@ -15,4 +15,7 @@
   - px - tamanho fixo
   - % - tamanho relativo
   - em - tamanho relativo ao container pai
-  
+
+  ### Aula sobre estilização de Textos
+   - OK
+   
