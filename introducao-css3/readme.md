@@ -1,5 +1,6 @@
-3 Maneira de trabalhar com CSS
+3 # Maneira de trabalhar com CSS
 
-External style sheet
-Internal style sheet    (OK)
-Inline style    (OK)
+- External style sheet
+- Internal style sheet    (OK)
+- Inline style    (OK)
+- Class and id      (OK)
